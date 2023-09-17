@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+
+# Solutions
+3.4-EXE-FFN-MNIST_sol.ipynb
